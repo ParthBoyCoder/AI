@@ -1,0 +1,4 @@
+1. I know logoD.py is out of place but u can still checki it out
+2. tensorflow included files need venv to run
+
+Regards, Parthib
