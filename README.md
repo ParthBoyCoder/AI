@@ -6,3 +6,6 @@ These r different kind of AI programs that I made, these include 2 types (for no
 2. Neural Networks made by me ( and help by chatGPT :) )
 
 Comments are mostlly given by base ChatGPT code, i have done further modification (I am new to NN)
+
+Regards,
+Parthib Banerjee
